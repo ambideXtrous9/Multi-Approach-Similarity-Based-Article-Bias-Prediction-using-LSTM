@@ -7,3 +7,4 @@ Bias Prediction of News Media Houses
 ![image](https://user-images.githubusercontent.com/31372586/204458645-215c4dbe-96c8-4994-88e8-3bb28bd992f5.png)
 ![image](https://user-images.githubusercontent.com/31372586/204458850-090b3aff-9570-440d-a479-d0c9ea1e7fd7.png)
 
+![image](https://github.com/ambideXtrous9/Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM-and-BERT/assets/31372586/aee36aaf-1be3-4bb7-83f6-a31e8fda031d)
