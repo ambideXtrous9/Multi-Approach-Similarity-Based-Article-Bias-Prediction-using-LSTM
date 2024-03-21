@@ -1,5 +1,13 @@
-# Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM
-Bias Prediction of News Media Houses
+# Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM-and-BERT
+
+## Models :
+
+1. Vaniila LSTM
+2. Bidirectional LSTM with CoMatching
+3. Bidirectional LSTM with Entailment
+4. Bidirectional LSTM with MultiHeadAttention
+5. Distil BERT for Classification
+
 
 ![image](https://user-images.githubusercontent.com/31372586/204459338-d79e05ea-9665-423b-87fd-013c0db1b5a8.png)
 ![image](https://user-images.githubusercontent.com/31372586/204459057-6eb6bf8e-0448-46f0-b3f0-b562a254338d.png)
