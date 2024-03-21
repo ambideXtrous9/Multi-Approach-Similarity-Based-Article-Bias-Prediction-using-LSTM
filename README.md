@@ -9,4 +9,5 @@ Bias Prediction of News Media Houses
 
 ![image](https://github.com/ambideXtrous9/Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM-and-BERT/assets/31372586/aee36aaf-1be3-4bb7-83f6-a31e8fda031d)
 ![image](https://github.com/ambideXtrous9/Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM-and-BERT/assets/31372586/922f972e-d909-4992-b4ca-bb8ad6c9bc73)
+![image](https://github.com/ambideXtrous9/Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM-and-BERT/assets/31372586/ea07c00b-f4a9-4cb5-b575-351fc250cb9d)
 
